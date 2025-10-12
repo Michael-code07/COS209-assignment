@@ -1,0 +1,27 @@
+/* Banner Section */
+.banner-page {
+  background-color: #f0f8ff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* About Section */
+.about-section {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+/* Products & Services Section */
+.products-section {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+/* Contact Section */
+.contact-section {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 10px 0;
+}
